@@ -8,7 +8,11 @@ Full Stack Developer | C# & .NET Enthusiast | Problem Solver
 
 ## 🎮 Watch the Snake Eat My Contributions!
 
-![snake gif](https://raw.githubusercontent.com/MphoMatheba/MphoMatheba/output/github-contribution-grid-snake-dark.svg)
+<img 
+  alt="GitHub Snake" 
+  src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" 
+  height="200" 
+  style="background-color: transparent;" />
 
 ---
 
