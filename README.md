@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mpho Matheba
 
+**Bachelor of Computer and Information Sciences in Application and Development**
+
 Full Stack Developer | C# & .NET Enthusiast | Problem Solver
 
 ---
@@ -46,10 +48,27 @@ Tools:        Git, GitHub, Visual Studio, VS Code
 
 ---
 
-## 📬 Get in Touch
+## 📜 Licenses & Certifications
+
+- **Introduction to Web Development** - SheCodes (Apr 2025)
+  - Skills: HTML, CSS, JavaScript, Responsive Design
+
+- **Introduction to Coding** - SheCodes (Apr 2025)
+  - Skills: HTML, CSS, JavaScript, Web Basics
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer and Information Sciences in Application and Development**
+
+---
+
+## 📬 Connect With Me
 
 📧 **Email:** mphomatheba047@gmail.com  
-🐙 **GitHub:** [@MphoMatheba](https://github.com/MphoMatheba)
+🐙 **GitHub:** [@MphoMatheba](https://github.com/MphoMatheba)  
+💼 **LinkedIn:** [Mpho Matheba](https://www.linkedin.com/in/mpho-matheba-b16a53293/)
 
 ---
 
